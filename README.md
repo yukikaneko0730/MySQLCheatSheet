@@ -17,11 +17,3 @@ Designed with 🚀 usability, 🎨 custom styling, and 📦 practical examples.
 - 🔮 **Advanced Topics** – partitioning, JSON, GIS, replication, ProxySQL, etc.
 
 ---
-
-## 📖 How to Use
-Clone the repo and open the cheat sheet in your Markdown viewer.  
-Perfect for quick look-ups while coding.
-
-```bash
-git clone https://github.com/yourname/mysql-cheatsheet.git
-cd mysql-cheatsheet
