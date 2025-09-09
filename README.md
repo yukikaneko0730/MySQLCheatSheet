@@ -1,7 +1,7 @@
 # 🐬 MySQL Cheat Sheet
 
 clean, developer-friendly reference for everyday MySQL.  
-Designed with 🚀 usability, 🎨 custom styling, and 📦 practical examples.
+Designed with 🫂 usability, 🎨 custom styling, and 📦 practical examples.
 
 ---
 
