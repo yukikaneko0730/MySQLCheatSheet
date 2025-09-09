@@ -1,6 +1,6 @@
 # 🐬 MySQL Cheat Sheet
 
-A **portfolio project**: clean, developer-friendly reference for everyday MySQL.  
+clean, developer-friendly reference for everyday MySQL.  
 Designed with 🚀 usability, 🎨 custom styling, and 📦 practical examples.
 
 ---
