@@ -6,8 +6,6 @@
 
 ## 🎨 Style & Design
 
-To make this cheat sheet pop in your portfolio:
-
 * **Color accents** → use Markdown emojis + shields.io badges.
 * **Icons** → section headers have icons for visual scanning.
 * **Consistency** → keep the same emoji theme (📦 schema, 🔍 queries, ⚡ performance, etc).
